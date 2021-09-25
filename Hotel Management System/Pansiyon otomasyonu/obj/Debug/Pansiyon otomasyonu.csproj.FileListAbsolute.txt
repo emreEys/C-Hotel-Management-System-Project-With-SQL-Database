@@ -1,0 +1,65 @@
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\bin\Debug\Pansiyon otomasyonu.exe.config
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\bin\Debug\Pansiyon otomasyonu.exe
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\bin\Debug\Pansiyon otomasyonu.pdb
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon otomasyonu.csproj.AssemblyReference.cache
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.Properties.Resources.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon otomasyonu.csproj.GenerateResource.cache
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon otomasyonu.exe
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon otomasyonu.pdb
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.MainForm.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.StdntPanel.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.StdntLogın.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.ManagerLogın.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.PersonLogın.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.Mailcod.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.PersonalReport.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.Report.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.ManagerPanel.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.ManagerSingUp.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.ManagerTotalGrafic.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.PersonPanel.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.ManagerAnnounces.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.StdntGoogle.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.StdntCompliant.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.StdntMealList.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.StdntNewspaper.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.Rooms.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.ManagerSelf.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.Announces.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.PersonalSelf.resources
+C:\Users\emree\Desktop\Murat yücedağ_Udemy\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.StdntSelf.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\bin\Debug\Pansiyon otomasyonu.exe.config
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\bin\Debug\Pansiyon otomasyonu.exe
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\bin\Debug\Pansiyon otomasyonu.pdb
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon otomasyonu.csproj.AssemblyReference.cache
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.Announces.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.MainForm.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.ManagerSelf.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.PersonalReport.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.PersonalSelf.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.ManagerLogın.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.ManagerAnnounces.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.ManagerPanel.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.ManagerSingUp.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.ManagerTotalGrafic.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.PersonLogın.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.PersonPanel.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.Properties.Resources.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.Rooms.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.StdntCompliant.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.StdntGoogle.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.StdntNewspaper.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.StdntPanel.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.StdntLogın.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.StdntSelf.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon otomasyonu.csproj.GenerateResource.cache
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon otomasyonu.exe
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon otomasyonu.pdb
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.ManagerReport.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.StdntForgotPassword.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.StdntPasswordCode.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.PersonalForgotPassword.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.PersonalPasswordCode.resources
+C:\Users\emree\Desktop\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.ManagerMailcod.resources

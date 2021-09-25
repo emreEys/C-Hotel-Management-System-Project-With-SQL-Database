@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8D77361D-0B70-4EB6-BF52-AA855C3BBAD6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Pansiyon_otomasyonu</RootNamespace>
+    <AssemblyName>Pansiyon otomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Announces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Announces.Designer.cs">
+      <DependentUpon>Announces.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PansiyonDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PansiyonDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PansiyonDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PansiyonDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PersonalForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonalForgotPassword.Designer.cs">
+      <DependentUpon>PersonalForgotPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonalPasswordCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonalPasswordCode.Designer.cs">
+      <DependentUpon>PersonalPasswordCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StdntForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StdntForgotPassword.Designer.cs">
+      <DependentUpon>StdntForgotPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerMailcod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerMailcod.Designer.cs">
+      <DependentUpon>ManagerMailcod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerSelf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerSelf.Designer.cs">
+      <DependentUpon>ManagerSelf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PansiyonDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PansiyonDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="StdntPasswordCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StdntPasswordCode.Designer.cs">
+      <DependentUpon>StdntPasswordCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonalReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonalReport.Designer.cs">
+      <DependentUpon>PersonalReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonalSelf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonalSelf.Designer.cs">
+      <DependentUpon>PersonalSelf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerReport.Designer.cs">
+      <DependentUpon>ManagerReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerLogın.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerLogın.Designer.cs">
+      <DependentUpon>ManagerLogın.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerAnnounces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerAnnounces.Designer.cs">
+      <DependentUpon>ManagerAnnounces.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerPanel.Designer.cs">
+      <DependentUpon>ManagerPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerSingUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerSingUp.Designer.cs">
+      <DependentUpon>ManagerSingUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerTotalGrafic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerTotalGrafic.Designer.cs">
+      <DependentUpon>ManagerTotalGrafic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonLogın.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonLogın.Designer.cs">
+      <DependentUpon>PersonLogın.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonPanel.Designer.cs">
+      <DependentUpon>PersonPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rooms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rooms.Designer.cs">
+      <DependentUpon>Rooms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sha256.cs" />
+    <Compile Include="SqlCon.cs" />
+    <Compile Include="StdntCompliant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StdntCompliant.Designer.cs">
+      <DependentUpon>StdntCompliant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StdntGoogle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StdntGoogle.Designer.cs">
+      <DependentUpon>StdntGoogle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StdntNewspaper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StdntNewspaper.Designer.cs">
+      <DependentUpon>StdntNewspaper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StdntPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StdntPanel.Designer.cs">
+      <DependentUpon>StdntPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StdntLogın.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StdntLogın.Designer.cs">
+      <DependentUpon>StdntLogın.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StdntSelf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StdntSelf.Designer.cs">
+      <DependentUpon>StdntSelf.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Announces.resx">
+      <DependentUpon>Announces.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonalForgotPassword.resx">
+      <DependentUpon>PersonalForgotPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonalPasswordCode.resx">
+      <DependentUpon>PersonalPasswordCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StdntForgotPassword.resx">
+      <DependentUpon>StdntForgotPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerMailcod.resx">
+      <DependentUpon>ManagerMailcod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerSelf.resx">
+      <DependentUpon>ManagerSelf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StdntPasswordCode.resx">
+      <DependentUpon>StdntPasswordCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonalReport.resx">
+      <DependentUpon>PersonalReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonalSelf.resx">
+      <DependentUpon>PersonalSelf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerReport.resx">
+      <DependentUpon>ManagerReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerLogın.resx">
+      <DependentUpon>ManagerLogın.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerAnnounces.resx">
+      <DependentUpon>ManagerAnnounces.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerPanel.resx">
+      <DependentUpon>ManagerPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerSingUp.resx">
+      <DependentUpon>ManagerSingUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerTotalGrafic.resx">
+      <DependentUpon>ManagerTotalGrafic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonLogın.resx">
+      <DependentUpon>PersonLogın.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonPanel.resx">
+      <DependentUpon>PersonPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Rooms.resx">
+      <DependentUpon>Rooms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StdntCompliant.resx">
+      <DependentUpon>StdntCompliant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StdntGoogle.resx">
+      <DependentUpon>StdntGoogle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StdntNewspaper.resx">
+      <DependentUpon>StdntNewspaper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StdntPanel.resx">
+      <DependentUpon>StdntPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StdntLogın.resx">
+      <DependentUpon>StdntLogın.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StdntSelf.resx">
+      <DependentUpon>StdntSelf.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="PansiyonDataSet.xsc">
+      <DependentUpon>PansiyonDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PansiyonDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PansiyonDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PansiyonDataSet.xss">
+      <DependentUpon>PansiyonDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PansiyonDataSet1.xsc">
+      <DependentUpon>PansiyonDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="PansiyonDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PansiyonDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PansiyonDataSet1.xss">
+      <DependentUpon>PansiyonDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="PansiyonDataSet2.xsc">
+      <DependentUpon>PansiyonDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="PansiyonDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PansiyonDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PansiyonDataSet2.xss">
+      <DependentUpon>PansiyonDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
